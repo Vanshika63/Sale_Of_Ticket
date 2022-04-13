@@ -1,0 +1,71 @@
+{
+  "Values": [
+    {
+      "Id": "79a2b7f0-5a71-4abd-b035-5a39f50931ed",
+      "Schedule": [
+        {
+          "Time": "13:00",
+          "SeatAvailable": 20
+        },
+        {
+          "Time": "14:30",
+          "SeatAvailable": 0
+        },
+        {
+          "Time": "15:00",
+          "SeatAvailable": 11
+        },
+        {
+          "Time": "16:00",
+          "SeatAvailable": 21
+        },
+        {
+          "Time": "16:30",
+          "SeatAvailable": 1
+        }
+      ]
+    },
+    {
+      "Id": "0ed0a609-3fdf-486e-bab4-171827bd60e2",
+      "Schedule": [
+        {
+          "Time": "09:00",
+          "SeatAvailable": 9
+        },
+        {
+          "Time": "10:30",
+          "SeatAvailable": 10
+        },
+        {
+          "Time": "12:00",
+          "SeatAvailable": 0
+        },
+        {
+          "Time": "13:30",
+          "SeatAvailable": 0
+        },
+        {
+          "Time": "15:00",
+          "SeatAvailable": 11
+        }
+      ]
+    },
+    {
+      "Id": "1c05d95e-095e-4289-81f3-9ce657206f68",
+      "Schedule": [
+        {
+          "Time": "19:00",
+          "SeatAvailable": 0
+        },
+        {
+          "Time": "21:30",
+          "SeatAvailable": 10
+        },
+        {
+          "Time": "13:00",
+          "SeatAvailable": 21
+        }
+      ]
+    }
+  ]
+}
